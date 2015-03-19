@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Bunsen
+Description=A plymouth theme for Bunsen Labs.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bunsen
+ScriptFile=/usr/share/plymouth/themes/bunsen/bunsen.script
